@@ -12,7 +12,7 @@
 * Carmen Chan https://chlorella.github.io/
 * Student 8
 * Student 9
-* Student 10
+* Gloria Song https://gloriasong.github.io/
 * Student 11
 * Roy Tang: http://Roytangrb.github.io/
 * Student 13
